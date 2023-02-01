@@ -4,4 +4,4 @@ eureka:
     
 spring:
   application:
-    name: config-service
+    name: config-service-default
